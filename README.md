@@ -6,7 +6,8 @@ This Tableau dashboard analyzes citizen behavior, energy consumption, transporta
 
 ## 📂 Files Included  
 - Dataset
-- `Dashboard_Preview.png` → Screenshot of the dashboard  
+  - Screenshot of the dashboard
+  - Dashboard 
 
 ## 📈 Insights Covered  
 ✔️ Work vs. Leisure Time  
